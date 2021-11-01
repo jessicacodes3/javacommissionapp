@@ -1,4 +1,4 @@
-// This Java application calculates commmission earned for products sold in the price range of 10,000.0 - 100,000.0.
+// This Java application calculates commmission earned for products sold in the price range of 10,000.0 - 100,000.0 with an 0.08 - 0.12 percent commission rate.
 
 import java.util.Scanner;
 
